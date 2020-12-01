@@ -1,0 +1,91 @@
+[ {
+  "uid" : "6bcf0ce46f526957",
+  "name" : "should not have empty asin choices",
+  "time" : {
+    "start" : 1606834955642,
+    "stop" : 1606834955642,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2dfda136ddd2b237",
+  "name" : "should not have missing values from family choices",
+  "time" : {
+    "start" : 1606834955645,
+    "stop" : 1606834955645,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e27970f1e24becf9",
+  "name" : "should have correct property names",
+  "time" : {
+    "start" : 1606834955638,
+    "stop" : 1606834955640,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36d2f7bf8582a7d9",
+  "name" : "should have correct date values",
+  "time" : {
+    "start" : 1606834955642,
+    "stop" : 1606834955644,
+    "duration" : 2
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dd9a106dc645910",
+  "name" : "should have correct datatypes",
+  "time" : {
+    "start" : 1606834955640,
+    "stop" : 1606834955641,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2e57f00f7d090cb",
+  "name" : "should not have empty family choices",
+  "time" : {
+    "start" : 1606834955642,
+    "stop" : 1606834955642,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "745f6fd658160abd",
+  "name" : "should have correct date parameters",
+  "time" : {
+    "start" : 1606834955642,
+    "stop" : 1606834955642,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c1dd23f10749b94",
+  "name" : "should not have missing values from brand choices",
+  "time" : {
+    "start" : 1606834955644,
+    "stop" : 1606834955645,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64beb6bb98d53d19",
+  "name" : "should not have empty brand choices",
+  "time" : {
+    "start" : 1606834955641,
+    "stop" : 1606834955641,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

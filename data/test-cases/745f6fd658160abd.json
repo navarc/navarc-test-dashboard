@@ -1,0 +1,46 @@
+{
+  "uid" : "745f6fd658160abd",
+  "name" : "should have correct date parameters",
+  "fullName" : "Mainfilters API when making a request to user's filters.should have correct date parameters",
+  "historyId" : "fbf4b0675496a74e9f4e87f45ad6500c",
+  "time" : {
+    "start" : 1606834955642,
+    "stop" : 1606834955642,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mainfilters API when making a request to user's filters"
+  }, {
+    "name" : "testClass",
+    "value" : "Mainfilters API when making a request to user's filters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have correct date parameters"
+  }, {
+    "name" : "package",
+    "value" : "Mainfilters API when making a request to user's filters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "745f6fd658160abd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "64beb6bb98d53d19",
+  "name" : "should not have empty brand choices",
+  "fullName" : "Mainfilters API when making a request to user's filters.should not have empty brand choices",
+  "historyId" : "ef89611ec70a66620e43be83171dadd2",
+  "time" : {
+    "start" : 1606834955641,
+    "stop" : 1606834955641,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mainfilters API when making a request to user's filters"
+  }, {
+    "name" : "testClass",
+    "value" : "Mainfilters API when making a request to user's filters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should not have empty brand choices"
+  }, {
+    "name" : "package",
+    "value" : "Mainfilters API when making a request to user's filters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64beb6bb98d53d19.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected '2020-11-01' to be 'not applicable'",
+      "children" : [ {
+        "name" : "should have correct date values",
+        "uid" : "36d2f7bf8582a7d9",
+        "parentUid" : "82fd83d70e544dad7eaeb72fd0492a58",
+        "status" : "failed",
+        "time" : {
+          "start" : 1606834955642,
+          "stop" : 1606834955644,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82fd83d70e544dad7eaeb72fd0492a58"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
