@@ -4,22 +4,48 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "expected '2020-11-01' to be 'not applicable'",
+      "name" : "expected Array [] not to be empty (false negative fail)",
       "children" : [ {
-        "name" : "should have correct date values",
-        "uid" : "36d2f7bf8582a7d9",
-        "parentUid" : "82fd83d70e544dad7eaeb72fd0492a58",
+        "name" : "should not have empty brand choices",
+        "uid" : "335a264a83299e0b",
+        "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
         "status" : "failed",
         "time" : {
-          "start" : 1606834955642,
-          "stop" : 1606834955644,
-          "duration" : 2
+          "start" : 1606884886680,
+          "stop" : 1606884886684,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "should not have empty family choices",
+        "uid" : "16d92ac3006f1f1",
+        "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1606884886685,
+          "stop" : 1606884886686,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "should not have empty asin choices",
+        "uid" : "b84455e3b085cd1e",
+        "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1606884886686,
+          "stop" : 1606884886687,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "82fd83d70e544dad7eaeb72fd0492a58"
+      "uid" : "9abcdd37f53d8dfc8eb4cee0044cf45e"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]

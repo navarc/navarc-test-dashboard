@@ -1,0 +1,46 @@
+{
+  "uid" : "c1060e9f02549a93",
+  "name" : "should return a 422",
+  "fullName" : "Mainfilters API when updating a user's filters when sending wrong payloads when sending a empty object.should return a 422",
+  "historyId" : "9a24584cf2f1be559e9fea2c72e67f62",
+  "time" : {
+    "start" : 1606884887691,
+    "stop" : 1606884887694,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mainfilters API when updating a user's filters when sending wrong payloads when sending a empty object"
+  }, {
+    "name" : "testClass",
+    "value" : "Mainfilters API when updating a user's filters when sending wrong payloads when sending a empty object"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return a 422"
+  }, {
+    "name" : "package",
+    "value" : "Mainfilters API when updating a user's filters when sending wrong payloads when sending a empty object"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1060e9f02549a93.json",
+  "parameterValues" : [ ]
+}

@@ -1,90 +1,130 @@
 [ {
-  "uid" : "b2e57f00f7d090cb",
-  "name" : "should not have empty family choices",
+  "uid" : "74f02c414198fc19",
+  "name" : "should respond 422",
   "time" : {
-    "start" : 1606834955642,
-    "stop" : 1606834955642,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8dd9a106dc645910",
-  "name" : "should have correct datatypes",
-  "time" : {
-    "start" : 1606834955640,
-    "stop" : 1606834955641,
+    "start" : 1606884890509,
+    "stop" : 1606884890510,
     "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "745f6fd658160abd",
+  "uid" : "1984498a475a76f3",
   "name" : "should have correct date parameters",
   "time" : {
-    "start" : 1606834955642,
-    "stop" : 1606834955642,
+    "start" : 1606884886687,
+    "stop" : 1606884886687,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e27970f1e24becf9",
-  "name" : "should have correct property names",
+  "uid" : "16d92ac3006f1f1",
+  "name" : "should not have empty family choices",
   "time" : {
-    "start" : 1606834955638,
-    "stop" : 1606834955640,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "36d2f7bf8582a7d9",
-  "name" : "should have correct date values",
-  "time" : {
-    "start" : 1606834955642,
-    "stop" : 1606834955644,
-    "duration" : 2
+    "start" : 1606884886685,
+    "stop" : 1606884886686,
+    "duration" : 1
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "2dfda136ddd2b237",
-  "name" : "should not have missing values from family choices",
+  "uid" : "f56ff9406396d9da",
+  "name" : "should have correct datatypes",
   "time" : {
-    "start" : 1606834955645,
-    "stop" : 1606834955645,
+    "start" : 1606884886680,
+    "stop" : 1606884886680,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6bcf0ce46f526957",
-  "name" : "should not have empty asin choices",
-  "time" : {
-    "start" : 1606834955642,
-    "stop" : 1606834955642,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "64beb6bb98d53d19",
+  "uid" : "335a264a83299e0b",
   "name" : "should not have empty brand choices",
   "time" : {
-    "start" : 1606834955641,
-    "stop" : 1606834955641,
+    "start" : 1606884886680,
+    "stop" : 1606884886684,
+    "duration" : 4
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b84455e3b085cd1e",
+  "name" : "should not have empty asin choices",
+  "time" : {
+    "start" : 1606884886686,
+    "stop" : 1606884886687,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e551675542b630",
+  "name" : "should respond 422",
+  "time" : {
+    "start" : 1606884889575,
+    "stop" : 1606884889576,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1060e9f02549a93",
+  "name" : "should return a 422",
+  "time" : {
+    "start" : 1606884887691,
+    "stop" : 1606884887694,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "981f50e37f8f2c94",
+  "name" : "should respond with success",
+  "time" : {
+    "start" : 1606884888705,
+    "stop" : 1606884888705,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2c1dd23f10749b94",
+  "uid" : "460d2d61ca938f05",
+  "name" : "should have correct property names",
+  "time" : {
+    "start" : 1606884886676,
+    "stop" : 1606884886679,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f618cb9d1367ad4",
+  "name" : "should have correct date values",
+  "time" : {
+    "start" : 1606884886688,
+    "stop" : 1606884886688,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1ccaca4bd2794c4",
   "name" : "should not have missing values from brand choices",
   "time" : {
-    "start" : 1606834955644,
-    "stop" : 1606834955645,
-    "duration" : 1
+    "start" : 1606884886688,
+    "stop" : 1606884886688,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "853c379ed0fcda5",
+  "name" : "should not have missing values from family choices",
+  "time" : {
+    "start" : 1606884886689,
+    "stop" : 1606884886689,
+    "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"

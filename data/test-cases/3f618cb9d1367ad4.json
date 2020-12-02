@@ -1,16 +1,18 @@
 {
-  "uid" : "8dd9a106dc645910",
-  "name" : "should have correct datatypes",
-  "fullName" : "Mainfilters API when making a request to user's filters.should have correct datatypes",
-  "historyId" : "eb81dd3f47c6ac152f03a46dad111c0c",
+  "uid" : "3f618cb9d1367ad4",
+  "name" : "should have correct date values",
+  "fullName" : "Mainfilters API when making a request to user's filters.should have correct date values",
+  "historyId" : "bd61cb2d0788413e5d7066256d6959a9",
   "time" : {
-    "start" : 1606834955640,
-    "stop" : 1606834955641,
-    "duration" : 1
+    "start" : 1606884886688,
+    "stop" : 1606884886688,
+    "duration" : 0
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "passed",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -23,7 +25,7 @@
     "value" : "Mainfilters API when making a request to user's filters"
   }, {
     "name" : "testMethod",
-    "value" : "should have correct datatypes"
+    "value" : "should have correct date values"
   }, {
     "name" : "package",
     "value" : "Mainfilters API when making a request to user's filters"
@@ -41,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8dd9a106dc645910.json",
+  "source" : "3f618cb9d1367ad4.json",
   "parameterValues" : [ ]
 }

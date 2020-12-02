@@ -1,16 +1,18 @@
 {
-  "uid" : "64beb6bb98d53d19",
+  "uid" : "335a264a83299e0b",
   "name" : "should not have empty brand choices",
   "fullName" : "Mainfilters API when making a request to user's filters.should not have empty brand choices",
   "historyId" : "ef89611ec70a66620e43be83171dadd2",
   "time" : {
-    "start" : 1606834955641,
-    "stop" : 1606834955641,
-    "duration" : 0
+    "start" : 1606884886680,
+    "stop" : 1606884886684,
+    "duration" : 4
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "passed",
+  "status" : "failed",
+  "statusMessage" : "expected Array [] not to be empty (false negative fail)",
+  "statusTrace" : "AssertionError: expected Array [] not to be empty (false negative fail)\n                    at Assertion.fail (node_modules/should/cjs/should.js:275:17)\n                    at Assertion.value [as empty] (node_modules/should/cjs/should.js:368:17)\n                    at Context.it (src/mainfilters/mainfilters.api.spec.js:43:55)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -38,9 +40,13 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ ],
-    "categories" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
     "tags" : [ ]
   },
-  "source" : "64beb6bb98d53d19.json",
+  "source" : "335a264a83299e0b.json",
   "parameterValues" : [ ]
 }

@@ -1,0 +1,46 @@
+{
+  "uid" : "74f02c414198fc19",
+  "name" : "should respond 422",
+  "fullName" : "Mainfilters API when updating a user's filters when sending wrong previous date label.should respond 422",
+  "historyId" : "6e05b28f21d0b2bf3e4c0cdfed4c8ea9",
+  "time" : {
+    "start" : 1606884890509,
+    "stop" : 1606884890510,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mainfilters API when updating a user's filters when sending wrong previous date label"
+  }, {
+    "name" : "testClass",
+    "value" : "Mainfilters API when updating a user's filters when sending wrong previous date label"
+  }, {
+    "name" : "testMethod",
+    "value" : "should respond 422"
+  }, {
+    "name" : "package",
+    "value" : "Mainfilters API when updating a user's filters when sending wrong previous date label"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74f02c414198fc19.json",
+  "parameterValues" : [ ]
+}

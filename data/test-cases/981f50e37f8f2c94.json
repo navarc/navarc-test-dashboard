@@ -1,0 +1,46 @@
+{
+  "uid" : "981f50e37f8f2c94",
+  "name" : "should respond with success",
+  "fullName" : "Mainfilters API when updating a user's filters when sending empty brands families and asins.should respond with success",
+  "historyId" : "3594fac14d0eeb0343ea80943e789551",
+  "time" : {
+    "start" : 1606884888705,
+    "stop" : 1606884888705,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mainfilters API when updating a user's filters when sending empty brands families and asins"
+  }, {
+    "name" : "testClass",
+    "value" : "Mainfilters API when updating a user's filters when sending empty brands families and asins"
+  }, {
+    "name" : "testMethod",
+    "value" : "should respond with success"
+  }, {
+    "name" : "package",
+    "value" : "Mainfilters API when updating a user's filters when sending empty brands families and asins"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "981f50e37f8f2c94.json",
+  "parameterValues" : [ ]
+}
