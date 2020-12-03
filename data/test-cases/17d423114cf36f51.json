@@ -1,11 +1,11 @@
 {
-  "uid" : "b82eab8702e608e6",
-  "name" : "should have correct date parameters",
-  "fullName" : "Mainfilters API when making a request to user's filters.should have correct date parameters",
-  "historyId" : "fbf4b0675496a74e9f4e87f45ad6500c",
+  "uid" : "17d423114cf36f51",
+  "name" : "should not have empty family choices",
+  "fullName" : "Mainfilters API when making a request to user's filters.should not have empty family choices",
+  "historyId" : "bc753700744f462ae2210ebc8fc610d",
   "time" : {
-    "start" : 1607031366796,
-    "stop" : 1607031366796,
+    "start" : 1607031960849,
+    "stop" : 1607031960849,
     "duration" : 0
   },
   "description" : "",
@@ -23,7 +23,7 @@
     "value" : "Mainfilters API when making a request to user's filters"
   }, {
     "name" : "testMethod",
-    "value" : "should have correct date parameters"
+    "value" : "should not have empty family choices"
   }, {
     "name" : "package",
     "value" : "Mainfilters API when making a request to user's filters"
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "b82eab8702e608e6.json",
+  "source" : "17d423114cf36f51.json",
   "parameterValues" : [ ]
 }

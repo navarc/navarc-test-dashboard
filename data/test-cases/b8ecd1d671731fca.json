@@ -1,11 +1,11 @@
 {
-  "uid" : "d359bbb0d66a2d52",
-  "name" : "should not have empty asin choices",
-  "fullName" : "Mainfilters API when making a request to user's filters.should not have empty asin choices",
-  "historyId" : "3fd7a673cbc981f0a250a5d6b9e1bd51",
+  "uid" : "b8ecd1d671731fca",
+  "name" : "should have correct date parameters",
+  "fullName" : "Mainfilters API when making a request to user's filters.should have correct date parameters",
+  "historyId" : "fbf4b0675496a74e9f4e87f45ad6500c",
   "time" : {
-    "start" : 1607031366795,
-    "stop" : 1607031366795,
+    "start" : 1607031960850,
+    "stop" : 1607031960850,
     "duration" : 0
   },
   "description" : "",
@@ -23,7 +23,7 @@
     "value" : "Mainfilters API when making a request to user's filters"
   }, {
     "name" : "testMethod",
-    "value" : "should not have empty asin choices"
+    "value" : "should have correct date parameters"
   }, {
     "name" : "package",
     "value" : "Mainfilters API when making a request to user's filters"
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d359bbb0d66a2d52.json",
+  "source" : "b8ecd1d671731fca.json",
   "parameterValues" : [ ]
 }
