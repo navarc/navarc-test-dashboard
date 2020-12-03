@@ -1,18 +1,16 @@
 {
-  "uid" : "16d92ac3006f1f1",
+  "uid" : "4f24f06593e4ff68",
   "name" : "should not have empty family choices",
   "fullName" : "Mainfilters API when making a request to user's filters.should not have empty family choices",
   "historyId" : "bc753700744f462ae2210ebc8fc610d",
   "time" : {
-    "start" : 1606884886685,
-    "stop" : 1606884886686,
+    "start" : 1607030329264,
+    "stop" : 1607030329265,
     "duration" : 1
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "failed",
-  "statusMessage" : "expected Array [] not to be empty (false negative fail)",
-  "statusTrace" : "AssertionError: expected Array [] not to be empty (false negative fail)\n                    at Assertion.fail (node_modules/should/cjs/should.js:275:17)\n                    at Assertion.value [as empty] (node_modules/should/cjs/should.js:368:17)\n                    at Context.it (src/mainfilters/mainfilters.api.spec.js:46:56)",
+  "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -40,13 +38,9 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ ],
-    "categories" : [ {
-      "name" : "Product defects",
-      "matchedStatuses" : [ ],
-      "flaky" : false
-    } ],
+    "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "16d92ac3006f1f1.json",
+  "source" : "4f24f06593e4ff68.json",
   "parameterValues" : [ ]
 }

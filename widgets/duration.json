@@ -1,129 +1,129 @@
 [ {
-  "uid" : "460d2d61ca938f05",
+  "uid" : "c4c60e09709ab35c",
+  "name" : "should not have missing values from family choices",
+  "time" : {
+    "start" : 1607030329266,
+    "stop" : 1607030329266,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52856557c4741de1",
+  "name" : "should have correct date parameters",
+  "time" : {
+    "start" : 1607030329265,
+    "stop" : 1607030329265,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7af243c9fd37b7ce",
+  "name" : "should respond 422",
+  "time" : {
+    "start" : 1607030332998,
+    "stop" : 1607030332998,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb3cf204dadc93c8",
   "name" : "should have correct property names",
   "time" : {
-    "start" : 1606884886676,
-    "stop" : 1606884886679,
+    "start" : 1607030329260,
+    "stop" : 1607030329263,
     "duration" : 3
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1e551675542b630",
-  "name" : "should respond 422",
+  "uid" : "513bad743aa965eb",
+  "name" : "should have correct datatypes",
   "time" : {
-    "start" : 1606884889575,
-    "stop" : 1606884889576,
+    "start" : 1607030329263,
+    "stop" : 1607030329264,
     "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "981f50e37f8f2c94",
-  "name" : "should respond with success",
+  "uid" : "82c12ff1f3932705",
+  "name" : "should not have empty brand choices",
   "time" : {
-    "start" : 1606884888705,
-    "stop" : 1606884888705,
+    "start" : 1607030329264,
+    "stop" : 1607030329264,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f56ff9406396d9da",
-  "name" : "should have correct datatypes",
+  "uid" : "738e533b1cf9051f",
+  "name" : "should return a 422",
   "time" : {
-    "start" : 1606884886680,
-    "stop" : 1606884886680,
-    "duration" : 0
+    "start" : 1607030330126,
+    "stop" : 1607030330129,
+    "duration" : 3
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1ccaca4bd2794c4",
+  "uid" : "4f24f06593e4ff68",
+  "name" : "should not have empty family choices",
+  "time" : {
+    "start" : 1607030329264,
+    "stop" : 1607030329265,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e239e4a996366a",
   "name" : "should not have missing values from brand choices",
   "time" : {
-    "start" : 1606884886688,
-    "stop" : 1606884886688,
-    "duration" : 0
+    "start" : 1607030329265,
+    "stop" : 1607030329266,
+    "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "853c379ed0fcda5",
-  "name" : "should not have missing values from family choices",
+  "uid" : "a7ca4213761a278d",
+  "name" : "should respond 422",
   "time" : {
-    "start" : 1606884886689,
-    "stop" : 1606884886689,
+    "start" : 1607030332075,
+    "stop" : 1607030332075,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3f618cb9d1367ad4",
+  "uid" : "626c58dccf9ad1fa",
   "name" : "should have correct date values",
   "time" : {
-    "start" : 1606884886688,
-    "stop" : 1606884886688,
+    "start" : 1607030329265,
+    "stop" : 1607030329265,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "c1060e9f02549a93",
-  "name" : "should return a 422",
+  "uid" : "8f1c1abe1960070",
+  "name" : "should respond with success",
   "time" : {
-    "start" : 1606884887691,
-    "stop" : 1606884887694,
-    "duration" : 3
+    "start" : 1607030331115,
+    "stop" : 1607030331116,
+    "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "335a264a83299e0b",
-  "name" : "should not have empty brand choices",
-  "time" : {
-    "start" : 1606884886680,
-    "stop" : 1606884886684,
-    "duration" : 4
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "b84455e3b085cd1e",
+  "uid" : "599784e31a25c2bc",
   "name" : "should not have empty asin choices",
   "time" : {
-    "start" : 1606884886686,
-    "stop" : 1606884886687,
-    "duration" : 1
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "16d92ac3006f1f1",
-  "name" : "should not have empty family choices",
-  "time" : {
-    "start" : 1606884886685,
-    "stop" : 1606884886686,
-    "duration" : 1
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "74f02c414198fc19",
-  "name" : "should respond 422",
-  "time" : {
-    "start" : 1606884890509,
-    "stop" : 1606884890510,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1984498a475a76f3",
-  "name" : "should have correct date parameters",
-  "time" : {
-    "start" : 1606884886687,
-    "stop" : 1606884886687,
+    "start" : 1607030329265,
+    "stop" : 1607030329265,
     "duration" : 0
   },
   "status" : "passed",
