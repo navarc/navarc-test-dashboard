@@ -1,18 +1,16 @@
 {
-  "uid" : "626c58dccf9ad1fa",
-  "name" : "should have correct date values",
-  "fullName" : "Mainfilters API when making a request to user's filters.should have correct date values",
-  "historyId" : "bd61cb2d0788413e5d7066256d6959a9",
+  "uid" : "7a5f5d292bfffe79",
+  "name" : "should not have empty family choices",
+  "fullName" : "Mainfilters API when making a request to user's filters.should not have empty family choices",
+  "historyId" : "bc753700744f462ae2210ebc8fc610d",
   "time" : {
-    "start" : 1607030329265,
-    "stop" : 1607030329265,
+    "start" : 1607031366795,
+    "stop" : 1607031366795,
     "duration" : 0
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "skipped",
-  "statusMessage" : "Test ignored",
-  "statusTrace" : "undefined",
+  "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -25,7 +23,7 @@
     "value" : "Mainfilters API when making a request to user's filters"
   }, {
     "name" : "testMethod",
-    "value" : "should have correct date values"
+    "value" : "should not have empty family choices"
   }, {
     "name" : "package",
     "value" : "Mainfilters API when making a request to user's filters"
@@ -43,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "626c58dccf9ad1fa.json",
+  "source" : "7a5f5d292bfffe79.json",
   "parameterValues" : [ ]
 }

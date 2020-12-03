@@ -1,16 +1,18 @@
 {
-  "uid" : "599784e31a25c2bc",
-  "name" : "should not have empty asin choices",
-  "fullName" : "Mainfilters API when making a request to user's filters.should not have empty asin choices",
-  "historyId" : "3fd7a673cbc981f0a250a5d6b9e1bd51",
+  "uid" : "1d1e707c66a13139",
+  "name" : "should have correct date values",
+  "fullName" : "Mainfilters API when making a request to user's filters.should have correct date values",
+  "historyId" : "bd61cb2d0788413e5d7066256d6959a9",
   "time" : {
-    "start" : 1607030329265,
-    "stop" : 1607030329265,
+    "start" : 1607031366796,
+    "stop" : 1607031366796,
     "duration" : 0
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "passed",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -23,7 +25,7 @@
     "value" : "Mainfilters API when making a request to user's filters"
   }, {
     "name" : "testMethod",
-    "value" : "should not have empty asin choices"
+    "value" : "should have correct date values"
   }, {
     "name" : "package",
     "value" : "Mainfilters API when making a request to user's filters"
@@ -41,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "599784e31a25c2bc.json",
+  "source" : "1d1e707c66a13139.json",
   "parameterValues" : [ ]
 }
