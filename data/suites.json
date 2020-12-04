@@ -5,51 +5,51 @@
     "name" : "Mainfilters API when making a request to user's filters",
     "children" : [ {
       "name" : "should have correct property names",
-      "uid" : "57f14ab0c0b6568d",
+      "uid" : "48f83de18e5f6a6",
       "parentUid" : "da67c68a17813b82e7969b3b7721291f",
       "status" : "passed",
       "time" : {
-        "start" : 1607094191591,
-        "stop" : 1607094191593,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "should have correct datatypes",
-      "uid" : "e3d0f8033e208362",
-      "parentUid" : "da67c68a17813b82e7969b3b7721291f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1607094191594,
-        "stop" : 1607094191594,
-        "duration" : 0
+        "start" : 1607117433977,
+        "stop" : 1607117433980,
+        "duration" : 3
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "should not have empty brand choices",
-      "uid" : "ecd261ae6d84fb57",
+      "uid" : "c49982690574d37a",
       "parentUid" : "da67c68a17813b82e7969b3b7721291f",
       "status" : "passed",
       "time" : {
-        "start" : 1607094191595,
-        "stop" : 1607094191596,
+        "start" : 1607117433981,
+        "stop" : 1607117433982,
         "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "should not have empty family choices",
-      "uid" : "b5efc0f740878a3",
+      "name" : "should have correct datatypes",
+      "uid" : "c89aedb96790e353",
       "parentUid" : "da67c68a17813b82e7969b3b7721291f",
       "status" : "passed",
       "time" : {
-        "start" : 1607094191596,
-        "stop" : 1607094191596,
+        "start" : 1607117433981,
+        "stop" : 1607117433981,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should not have empty family choices",
+      "uid" : "18ca2bdf605347d",
+      "parentUid" : "da67c68a17813b82e7969b3b7721291f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607117433982,
+        "stop" : 1607117433982,
         "duration" : 0
       },
       "flaky" : false,
@@ -57,25 +57,25 @@
       "parameters" : [ ]
     }, {
       "name" : "should not have empty asin choices",
-      "uid" : "1e969795c61c26da",
+      "uid" : "7cfbad50b6f10984",
       "parentUid" : "da67c68a17813b82e7969b3b7721291f",
       "status" : "passed",
       "time" : {
-        "start" : 1607094191596,
-        "stop" : 1607094191597,
+        "start" : 1607117433982,
+        "stop" : 1607117433983,
         "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "should have correct date parameters",
-      "uid" : "fe9d195ae77eb7b5",
+      "name" : "should not have missing values from brand choices",
+      "uid" : "ee77f1197096922f",
       "parentUid" : "da67c68a17813b82e7969b3b7721291f",
       "status" : "passed",
       "time" : {
-        "start" : 1607094191597,
-        "stop" : 1607094191598,
+        "start" : 1607117433983,
+        "stop" : 1607117433984,
         "duration" : 1
       },
       "flaky" : false,
@@ -83,25 +83,25 @@
       "parameters" : [ ]
     }, {
       "name" : "should have correct date values",
-      "uid" : "941fce5291096e98",
+      "uid" : "3290086e90eaa3ac",
       "parentUid" : "da67c68a17813b82e7969b3b7721291f",
       "status" : "skipped",
       "time" : {
-        "start" : 1607094191598,
-        "stop" : 1607094191598,
+        "start" : 1607117433983,
+        "stop" : 1607117433983,
         "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "should not have missing values from brand choices",
-      "uid" : "aec7638bcb7a2697",
+      "name" : "should have correct date parameters",
+      "uid" : "41a24628e336a1f8",
       "parentUid" : "da67c68a17813b82e7969b3b7721291f",
       "status" : "passed",
       "time" : {
-        "start" : 1607094191598,
-        "stop" : 1607094191598,
+        "start" : 1607117433983,
+        "stop" : 1607117433983,
         "duration" : 0
       },
       "flaky" : false,
@@ -109,12 +109,12 @@
       "parameters" : [ ]
     }, {
       "name" : "should not have missing values from family choices",
-      "uid" : "3beb4bce28b0929b",
+      "uid" : "489fbda9bd3f544b",
       "parentUid" : "da67c68a17813b82e7969b3b7721291f",
       "status" : "passed",
       "time" : {
-        "start" : 1607094191599,
-        "stop" : 1607094191599,
+        "start" : 1607117433984,
+        "stop" : 1607117433984,
         "duration" : 0
       },
       "flaky" : false,
@@ -126,13 +126,13 @@
     "name" : "Mainfilters API when updating a user's filters when sending wrong payloads when sending a empty object",
     "children" : [ {
       "name" : "should return a 422",
-      "uid" : "7ab4bf4a40f0d5b5",
+      "uid" : "44f84830921bcff7",
       "parentUid" : "c92853fe6ee3a86b8adadc69ef7002fd",
       "status" : "passed",
       "time" : {
-        "start" : 1607094192666,
-        "stop" : 1607094192667,
-        "duration" : 1
+        "start" : 1607117436038,
+        "stop" : 1607117436040,
+        "duration" : 2
       },
       "flaky" : false,
       "newFailed" : false,
@@ -143,13 +143,13 @@
     "name" : "Mainfilters API when updating a user's filters when sending empty brands families and asins",
     "children" : [ {
       "name" : "should respond with success",
-      "uid" : "f16fb42cddbe3afd",
+      "uid" : "2aac2c0ca6631329",
       "parentUid" : "28b7af6d1747dc24bde2c228ccb070a7",
       "status" : "passed",
       "time" : {
-        "start" : 1607094193592,
-        "stop" : 1607094193592,
-        "duration" : 0
+        "start" : 1607117437028,
+        "stop" : 1607117437029,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
@@ -160,12 +160,12 @@
     "name" : "Mainfilters API when updating a user's filters when sending wrong current date label",
     "children" : [ {
       "name" : "should respond 422",
-      "uid" : "6a5f8d0777dd9913",
+      "uid" : "d7cfdcda627f78ac",
       "parentUid" : "d313224e6c053164af8cacf7cb5aa7d2",
       "status" : "passed",
       "time" : {
-        "start" : 1607094194539,
-        "stop" : 1607094194540,
+        "start" : 1607117438219,
+        "stop" : 1607117438220,
         "duration" : 1
       },
       "flaky" : false,
@@ -177,13 +177,13 @@
     "name" : "Mainfilters API when updating a user's filters when sending wrong previous date label",
     "children" : [ {
       "name" : "should respond 422",
-      "uid" : "992dd1cabf677c74",
+      "uid" : "ee3eb58014e6eeb0",
       "parentUid" : "1e03fc5de9f0fb88db51d300a48aa11a",
       "status" : "passed",
       "time" : {
-        "start" : 1607094195483,
-        "stop" : 1607094195483,
-        "duration" : 0
+        "start" : 1607117439313,
+        "stop" : 1607117439314,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,

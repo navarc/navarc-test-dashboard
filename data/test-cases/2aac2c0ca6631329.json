@@ -1,12 +1,12 @@
 {
-  "uid" : "f16fb42cddbe3afd",
+  "uid" : "2aac2c0ca6631329",
   "name" : "should respond with success",
   "fullName" : "Mainfilters API when updating a user's filters when sending empty brands families and asins.should respond with success",
   "historyId" : "3594fac14d0eeb0343ea80943e789551",
   "time" : {
-    "start" : 1607094193592,
-    "stop" : 1607094193592,
-    "duration" : 0
+    "start" : 1607117437028,
+    "stop" : 1607117437029,
+    "duration" : 1
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f16fb42cddbe3afd.json",
+  "source" : "2aac2c0ca6631329.json",
   "parameterValues" : [ ]
 }
