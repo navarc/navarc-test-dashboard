@@ -1,12 +1,12 @@
 {
-  "uid" : "cb57e1522d2ded9b",
+  "uid" : "6a5f8d0777dd9913",
   "name" : "should respond 422",
-  "fullName" : "Mainfilters API when updating a user's filters when sending wrong previous date label.should respond 422",
-  "historyId" : "6e05b28f21d0b2bf3e4c0cdfed4c8ea9",
+  "fullName" : "Mainfilters API when updating a user's filters when sending wrong current date label.should respond 422",
+  "historyId" : "d5540af547b1b35575b469a4727cbd67",
   "time" : {
-    "start" : 1607041796903,
-    "stop" : 1607041796905,
-    "duration" : 2
+    "start" : 1607094194539,
+    "stop" : 1607094194540,
+    "duration" : 1
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -17,16 +17,16 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "suite",
-    "value" : "Mainfilters API when updating a user's filters when sending wrong previous date label"
+    "value" : "Mainfilters API when updating a user's filters when sending wrong current date label"
   }, {
     "name" : "testClass",
-    "value" : "Mainfilters API when updating a user's filters when sending wrong previous date label"
+    "value" : "Mainfilters API when updating a user's filters when sending wrong current date label"
   }, {
     "name" : "testMethod",
     "value" : "should respond 422"
   }, {
     "name" : "package",
-    "value" : "Mainfilters API when updating a user's filters when sending wrong previous date label"
+    "value" : "Mainfilters API when updating a user's filters when sending wrong current date label"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "cb57e1522d2ded9b.json",
+  "source" : "6a5f8d0777dd9913.json",
   "parameterValues" : [ ]
 }
