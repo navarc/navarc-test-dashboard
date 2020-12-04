@@ -1,53 +1,39 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "name" : "behaviors",
   "children" : [ {
     "name" : "should have correct property names",
-    "uid" : "48d73e67b159410d",
+    "uid" : "544f0f8f5e4df5bf",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041601965,
-      "stop" : 1607041601967,
-      "duration" : 2
+      "start" : 1607041791565,
+      "stop" : 1607041791568,
+      "duration" : 3
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "should have correct datatypes",
-    "uid" : "46fd71fd60a386d9",
+    "uid" : "e2ecfbc1796d11f1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041601968,
-      "stop" : 1607041601968,
-      "duration" : 0
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "should not have empty brand choices",
-    "uid" : "30e9146a4c07ee4b",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1607041601968,
-      "stop" : 1607041601969,
+      "start" : 1607041791568,
+      "stop" : 1607041791569,
       "duration" : 1
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "should have correct date parameters",
-    "uid" : "a8f884dccaf367fc",
+    "name" : "should not have empty brand choices",
+    "uid" : "e8cb5a9132b094ab",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041601969,
-      "stop" : 1607041601970,
+      "start" : 1607041791569,
+      "stop" : 1607041791570,
       "duration" : 1
     },
     "flaky" : false,
@@ -55,25 +41,38 @@
     "parameters" : [ ]
   }, {
     "name" : "should not have empty family choices",
-    "uid" : "972c7c0aaf43eca1",
+    "uid" : "559ce4e9cf1006b1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041601969,
-      "stop" : 1607041601969,
-      "duration" : 0
+      "start" : 1607041791570,
+      "stop" : 1607041791571,
+      "duration" : 1
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "should not have empty asin choices",
-    "uid" : "49d5df9ce3dce5ac",
+    "uid" : "e2ae71de9ab0802f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041601969,
-      "stop" : 1607041601969,
+      "start" : 1607041791571,
+      "stop" : 1607041791571,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should have correct date parameters",
+    "uid" : "7551f3b9fbcd90f0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607041791571,
+      "stop" : 1607041791571,
       "duration" : 0
     },
     "flaky" : false,
@@ -81,12 +80,12 @@
     "parameters" : [ ]
   }, {
     "name" : "should not have missing values from brand choices",
-    "uid" : "27bff412560d6d9e",
+    "uid" : "73de2f7bbe7acde3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041601970,
-      "stop" : 1607041601970,
+      "start" : 1607041791572,
+      "stop" : 1607041791572,
       "duration" : 0
     },
     "flaky" : false,
@@ -94,12 +93,12 @@
     "parameters" : [ ]
   }, {
     "name" : "should not have missing values from family choices",
-    "uid" : "5cc57acf0b6b7e91",
+    "uid" : "37a72b747b376199",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041601970,
-      "stop" : 1607041601970,
+      "start" : 1607041791572,
+      "stop" : 1607041791572,
       "duration" : 0
     },
     "flaky" : false,
@@ -107,12 +106,12 @@
     "parameters" : [ ]
   }, {
     "name" : "should have correct date values",
-    "uid" : "837b47203318216d",
+    "uid" : "edff9356f3dfdbfb",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "skipped",
     "time" : {
-      "start" : 1607041601970,
-      "stop" : 1607041601970,
+      "start" : 1607041791572,
+      "stop" : 1607041791572,
       "duration" : 0
     },
     "flaky" : false,
@@ -120,12 +119,12 @@
     "parameters" : [ ]
   }, {
     "name" : "should return a 422",
-    "uid" : "ec370dc43437633a",
+    "uid" : "bff695cc8f05cd04",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041603998,
-      "stop" : 1607041604000,
+      "start" : 1607041792586,
+      "stop" : 1607041792588,
       "duration" : 2
     },
     "flaky" : false,
@@ -133,12 +132,12 @@
     "parameters" : [ ]
   }, {
     "name" : "should respond with success",
-    "uid" : "d6a8b3b6c83326cb",
+    "uid" : "4250c381e704e751",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041608339,
-      "stop" : 1607041608339,
+      "start" : 1607041793558,
+      "stop" : 1607041793558,
       "duration" : 0
     },
     "flaky" : false,
@@ -146,29 +145,30 @@
     "parameters" : [ ]
   }, {
     "name" : "should respond 422",
-    "uid" : "38f1c72b22635985",
+    "uid" : "cb3303ac90455420",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607041609913,
-      "stop" : 1607041609913,
-      "duration" : 0
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "should respond 422",
-    "uid" : "21bb9e3d7f1bb963",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1607041610859,
-      "stop" : 1607041610860,
+      "start" : 1607041795196,
+      "stop" : 1607041795197,
       "duration" : 1
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
-  } ]
+  }, {
+    "name" : "should respond 422",
+    "uid" : "cb57e1522d2ded9b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607041796903,
+      "stop" : 1607041796905,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
 }

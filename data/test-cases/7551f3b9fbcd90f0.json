@@ -1,11 +1,11 @@
 {
-  "uid" : "5cc57acf0b6b7e91",
-  "name" : "should not have missing values from family choices",
-  "fullName" : "Mainfilters API when making a request to user's filters.should not have missing values from family choices",
-  "historyId" : "6578b4f4320a8ace160d1e3896b5aa14",
+  "uid" : "7551f3b9fbcd90f0",
+  "name" : "should have correct date parameters",
+  "fullName" : "Mainfilters API when making a request to user's filters.should have correct date parameters",
+  "historyId" : "fbf4b0675496a74e9f4e87f45ad6500c",
   "time" : {
-    "start" : 1607041601970,
-    "stop" : 1607041601970,
+    "start" : 1607041791571,
+    "stop" : 1607041791571,
     "duration" : 0
   },
   "description" : "",
@@ -23,7 +23,7 @@
     "value" : "Mainfilters API when making a request to user's filters"
   }, {
     "name" : "testMethod",
-    "value" : "should not have missing values from family choices"
+    "value" : "should have correct date parameters"
   }, {
     "name" : "package",
     "value" : "Mainfilters API when making a request to user's filters"
@@ -37,18 +37,10 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ {
-      "uid" : "4db7d34cd99cb929",
-      "status" : "passed",
-      "time" : {
-        "start" : 1607041601970,
-        "stop" : 1607041601970,
-        "duration" : 0
-      }
-    } ],
+    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5cc57acf0b6b7e91.json",
+  "source" : "7551f3b9fbcd90f0.json",
   "parameterValues" : [ ]
 }

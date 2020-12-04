@@ -1,11 +1,11 @@
 {
-  "uid" : "ec370dc43437633a",
+  "uid" : "bff695cc8f05cd04",
   "name" : "should return a 422",
   "fullName" : "Mainfilters API when updating a user's filters when sending wrong payloads when sending a empty object.should return a 422",
   "historyId" : "9a24584cf2f1be559e9fea2c72e67f62",
   "time" : {
-    "start" : 1607041603998,
-    "stop" : 1607041604000,
+    "start" : 1607041792586,
+    "stop" : 1607041792588,
     "duration" : 2
   },
   "description" : "",
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ec370dc43437633a.json",
+  "source" : "bff695cc8f05cd04.json",
   "parameterValues" : [ ]
 }

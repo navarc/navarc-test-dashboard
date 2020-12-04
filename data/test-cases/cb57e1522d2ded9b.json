@@ -1,12 +1,12 @@
 {
-  "uid" : "21bb9e3d7f1bb963",
+  "uid" : "cb57e1522d2ded9b",
   "name" : "should respond 422",
   "fullName" : "Mainfilters API when updating a user's filters when sending wrong previous date label.should respond 422",
   "historyId" : "6e05b28f21d0b2bf3e4c0cdfed4c8ea9",
   "time" : {
-    "start" : 1607041610859,
-    "stop" : 1607041610860,
-    "duration" : 1
+    "start" : 1607041796903,
+    "stop" : 1607041796905,
+    "duration" : 2
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "21bb9e3d7f1bb963.json",
+  "source" : "cb57e1522d2ded9b.json",
   "parameterValues" : [ ]
 }
