@@ -1,0 +1,46 @@
+{
+  "uid" : "c5cee5c91a4d3669",
+  "name" : "it should have the correct data response for: This Quarter",
+  "fullName" : "Mainfilters API when updating a user's filters when updating the 'Show me' input.it should have the correct data response for: This Quarter",
+  "historyId" : "336b69eb6c22b82c6641ed4214aaec83",
+  "time" : {
+    "start" : 1607376227310,
+    "stop" : 1607376228796,
+    "duration" : 1486
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "testClass",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should have the correct data response for: This Quarter"
+  }, {
+    "name" : "package",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5cee5c91a4d3669.json",
+  "parameterValues" : [ ]
+}

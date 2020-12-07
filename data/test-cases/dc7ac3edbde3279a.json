@@ -1,0 +1,46 @@
+{
+  "uid" : "dc7ac3edbde3279a",
+  "name" : "it should have the correct data response for: Yesterday",
+  "fullName" : "Mainfilters API when updating a user's filters when updating the 'Show me' input.it should have the correct data response for: Yesterday",
+  "historyId" : "c3b25cf44c04394293c263ece0625e0c",
+  "time" : {
+    "start" : 1607376234407,
+    "stop" : 1607376235225,
+    "duration" : 818
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "testClass",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should have the correct data response for: Yesterday"
+  }, {
+    "name" : "package",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc7ac3edbde3279a.json",
+  "parameterValues" : [ ]
+}

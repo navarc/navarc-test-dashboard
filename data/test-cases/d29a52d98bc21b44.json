@@ -1,0 +1,46 @@
+{
+  "uid" : "d29a52d98bc21b44",
+  "name" : "it should have the correct data response for: Last Week",
+  "fullName" : "Mainfilters API when updating a user's filters when updating the 'Show me' input.it should have the correct data response for: Last Week",
+  "historyId" : "7ea1624ae0b11d51d5fe587e55564d9e",
+  "time" : {
+    "start" : 1607376232499,
+    "stop" : 1607376233589,
+    "duration" : 1090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "testClass",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should have the correct data response for: Last Week"
+  }, {
+    "name" : "package",
+    "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d29a52d98bc21b44.json",
+  "parameterValues" : [ ]
+}

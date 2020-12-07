@@ -1,130 +1,220 @@
 [ {
-  "uid" : "489fbda9bd3f544b",
-  "name" : "should not have missing values from family choices",
-  "time" : {
-    "start" : 1607117433984,
-    "stop" : 1607117433984,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d7cfdcda627f78ac",
-  "name" : "should respond 422",
-  "time" : {
-    "start" : 1607117438219,
-    "stop" : 1607117438220,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2aac2c0ca6631329",
-  "name" : "should respond with success",
-  "time" : {
-    "start" : 1607117437028,
-    "stop" : 1607117437029,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3290086e90eaa3ac",
-  "name" : "should have correct date values",
-  "time" : {
-    "start" : 1607117433983,
-    "stop" : 1607117433983,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "44f84830921bcff7",
-  "name" : "should return a 422",
-  "time" : {
-    "start" : 1607117436038,
-    "stop" : 1607117436040,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ee3eb58014e6eeb0",
-  "name" : "should respond 422",
-  "time" : {
-    "start" : 1607117439313,
-    "stop" : 1607117439314,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "18ca2bdf605347d",
+  "uid" : "82dfbef908c695e6",
   "name" : "should not have empty family choices",
   "time" : {
-    "start" : 1607117433982,
-    "stop" : 1607117433982,
+    "start" : 1607376223405,
+    "stop" : 1607376223406,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee83a710cf368958",
+  "name" : "should have correct date parameters",
+  "time" : {
+    "start" : 1607376223407,
+    "stop" : 1607376223407,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "48f83de18e5f6a6",
+  "uid" : "dc7ac3edbde3279a",
+  "name" : "it should have the correct data response for: Yesterday",
+  "time" : {
+    "start" : 1607376234407,
+    "stop" : 1607376235225,
+    "duration" : 818
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "117208d1d8d2b90f",
+  "name" : "it should have the correct data response for: Last 90 Days",
+  "time" : {
+    "start" : 1607376225849,
+    "stop" : 1607376227309,
+    "duration" : 1460
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2441e58250ec808c",
+  "name" : "should respond with success",
+  "time" : {
+    "start" : 1607376223816,
+    "stop" : 1607376223817,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a42a88b2929cf41f",
+  "name" : "should not have empty asin choices",
+  "time" : {
+    "start" : 1607376223406,
+    "stop" : 1607376223406,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "959f1abc7930baae",
   "name" : "should have correct property names",
   "time" : {
-    "start" : 1607117433977,
-    "stop" : 1607117433980,
+    "start" : 1607376223396,
+    "stop" : 1607376223399,
     "duration" : 3
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7cfbad50b6f10984",
-  "name" : "should not have empty asin choices",
+  "uid" : "1570c8c6247c8a28",
+  "name" : "it should have the correct data response for: This Month",
   "time" : {
-    "start" : 1607117433982,
-    "stop" : 1607117433983,
-    "duration" : 1
+    "start" : 1607376230250,
+    "stop" : 1607376231327,
+    "duration" : 1077
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ee77f1197096922f",
-  "name" : "should not have missing values from brand choices",
+  "uid" : "104cc70c2f82f8fe",
+  "name" : "should not have missing values from family choices",
   "time" : {
-    "start" : 1607117433983,
-    "stop" : 1607117433984,
-    "duration" : 1
+    "start" : 1607376223408,
+    "stop" : 1607376223408,
+    "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c89aedb96790e353",
+  "uid" : "e3e22ef278e665df",
+  "name" : "it should have the correct data response for: Today",
+  "time" : {
+    "start" : 1607376235225,
+    "stop" : 1607376235800,
+    "duration" : 575
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7262ed98335a882d",
+  "name" : "it should have the correct data response for: This Week",
+  "time" : {
+    "start" : 1607376233589,
+    "stop" : 1607376234406,
+    "duration" : 817
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a05e25a7d3181606",
   "name" : "should have correct datatypes",
   "time" : {
-    "start" : 1607117433981,
-    "stop" : 1607117433981,
-    "duration" : 0
+    "start" : 1607376223399,
+    "stop" : 1607376223400,
+    "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "41a24628e336a1f8",
-  "name" : "should have correct date parameters",
+  "uid" : "fa71e48f7d8c5929",
+  "name" : "it should have the correct data response for: This Year",
   "time" : {
-    "start" : 1607117433983,
-    "stop" : 1607117433983,
-    "duration" : 0
+    "start" : 1607376224296,
+    "stop" : 1607376225849,
+    "duration" : 1553
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c49982690574d37a",
+  "uid" : "c5cee5c91a4d3669",
+  "name" : "it should have the correct data response for: This Quarter",
+  "time" : {
+    "start" : 1607376227310,
+    "stop" : 1607376228796,
+    "duration" : 1486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38f856194d509f83",
+  "name" : "it should have the correct data response for: Last 7 Days",
+  "time" : {
+    "start" : 1607376231328,
+    "stop" : 1607376232498,
+    "duration" : 1170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67d335fc2d36c196",
+  "name" : "it should have the correct data response for: Last 30 Days",
+  "time" : {
+    "start" : 1607376228796,
+    "stop" : 1607376230250,
+    "duration" : 1454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5d47389051058ed",
   "name" : "should not have empty brand choices",
   "time" : {
-    "start" : 1607117433981,
-    "stop" : 1607117433982,
+    "start" : 1607376223400,
+    "stop" : 1607376223405,
+    "duration" : 5
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "42f9a887281b0364",
+  "name" : "should respond 422",
+  "time" : {
+    "start" : 1607376224017,
+    "stop" : 1607376224017,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21e23f82a595a5f9",
+  "name" : "should return a 422",
+  "time" : {
+    "start" : 1607376223631,
+    "stop" : 1607376223633,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72862d06d1d78e6b",
+  "name" : "should not have missing values from brand choices",
+  "time" : {
+    "start" : 1607376223407,
+    "stop" : 1607376223407,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a261988f3a398b53",
+  "name" : "should respond 422",
+  "time" : {
+    "start" : 1607376224293,
+    "stop" : 1607376224294,
     "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d29a52d98bc21b44",
+  "name" : "it should have the correct data response for: Last Week",
+  "time" : {
+    "start" : 1607376232499,
+    "stop" : 1607376233589,
+    "duration" : 1090
   },
   "status" : "passed",
   "severity" : "normal"

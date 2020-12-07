@@ -5,90 +5,77 @@
     "name" : "Mainfilters API when making a request to user's filters",
     "children" : [ {
       "name" : "should have correct property names",
-      "uid" : "48f83de18e5f6a6",
+      "uid" : "959f1abc7930baae",
       "parentUid" : "37d985a68df5bd5e1824448e203b0252",
       "status" : "passed",
       "time" : {
-        "start" : 1607117433977,
-        "stop" : 1607117433980,
+        "start" : 1607376223396,
+        "stop" : 1607376223399,
         "duration" : 3
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "should not have empty brand choices",
-      "uid" : "c49982690574d37a",
+      "name" : "should have correct datatypes",
+      "uid" : "a05e25a7d3181606",
       "parentUid" : "37d985a68df5bd5e1824448e203b0252",
       "status" : "passed",
       "time" : {
-        "start" : 1607117433981,
-        "stop" : 1607117433982,
+        "start" : 1607376223399,
+        "stop" : 1607376223400,
         "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "should have correct datatypes",
-      "uid" : "c89aedb96790e353",
+      "name" : "should not have empty brand choices",
+      "uid" : "e5d47389051058ed",
       "parentUid" : "37d985a68df5bd5e1824448e203b0252",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1607117433981,
-        "stop" : 1607117433981,
-        "duration" : 0
+        "start" : 1607376223400,
+        "stop" : 1607376223405,
+        "duration" : 5
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "should not have empty family choices",
-      "uid" : "18ca2bdf605347d",
+      "uid" : "82dfbef908c695e6",
       "parentUid" : "37d985a68df5bd5e1824448e203b0252",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1607117433982,
-        "stop" : 1607117433982,
-        "duration" : 0
+        "start" : 1607376223405,
+        "stop" : 1607376223406,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "should not have empty asin choices",
-      "uid" : "7cfbad50b6f10984",
+      "uid" : "a42a88b2929cf41f",
       "parentUid" : "37d985a68df5bd5e1824448e203b0252",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1607117433982,
-        "stop" : 1607117433983,
-        "duration" : 1
+        "start" : 1607376223406,
+        "stop" : 1607376223406,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "should not have missing values from brand choices",
-      "uid" : "ee77f1197096922f",
+      "uid" : "72862d06d1d78e6b",
       "parentUid" : "37d985a68df5bd5e1824448e203b0252",
       "status" : "passed",
       "time" : {
-        "start" : 1607117433983,
-        "stop" : 1607117433984,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "should have correct date values",
-      "uid" : "3290086e90eaa3ac",
-      "parentUid" : "37d985a68df5bd5e1824448e203b0252",
-      "status" : "skipped",
-      "time" : {
-        "start" : 1607117433983,
-        "stop" : 1607117433983,
+        "start" : 1607376223407,
+        "stop" : 1607376223407,
         "duration" : 0
       },
       "flaky" : false,
@@ -96,12 +83,12 @@
       "parameters" : [ ]
     }, {
       "name" : "should have correct date parameters",
-      "uid" : "41a24628e336a1f8",
+      "uid" : "ee83a710cf368958",
       "parentUid" : "37d985a68df5bd5e1824448e203b0252",
       "status" : "passed",
       "time" : {
-        "start" : 1607117433983,
-        "stop" : 1607117433983,
+        "start" : 1607376223407,
+        "stop" : 1607376223407,
         "duration" : 0
       },
       "flaky" : false,
@@ -109,12 +96,12 @@
       "parameters" : [ ]
     }, {
       "name" : "should not have missing values from family choices",
-      "uid" : "489fbda9bd3f544b",
+      "uid" : "104cc70c2f82f8fe",
       "parentUid" : "37d985a68df5bd5e1824448e203b0252",
       "status" : "passed",
       "time" : {
-        "start" : 1607117433984,
-        "stop" : 1607117433984,
+        "start" : 1607376223408,
+        "stop" : 1607376223408,
         "duration" : 0
       },
       "flaky" : false,
@@ -126,12 +113,12 @@
     "name" : "Mainfilters API when updating a user's filters when sending wrong payloads when sending a empty object",
     "children" : [ {
       "name" : "should return a 422",
-      "uid" : "44f84830921bcff7",
+      "uid" : "21e23f82a595a5f9",
       "parentUid" : "866c0f3b72d87dcbec212794b0c68dbd",
       "status" : "passed",
       "time" : {
-        "start" : 1607117436038,
-        "stop" : 1607117436040,
+        "start" : 1607376223631,
+        "stop" : 1607376223633,
         "duration" : 2
       },
       "flaky" : false,
@@ -143,12 +130,12 @@
     "name" : "Mainfilters API when updating a user's filters when sending empty brands families and asins",
     "children" : [ {
       "name" : "should respond with success",
-      "uid" : "2aac2c0ca6631329",
+      "uid" : "2441e58250ec808c",
       "parentUid" : "9c36c45552bb6f9be14a7ea7fdaa6437",
       "status" : "passed",
       "time" : {
-        "start" : 1607117437028,
-        "stop" : 1607117437029,
+        "start" : 1607376223816,
+        "stop" : 1607376223817,
         "duration" : 1
       },
       "flaky" : false,
@@ -160,13 +147,13 @@
     "name" : "Mainfilters API when updating a user's filters when sending wrong current date label",
     "children" : [ {
       "name" : "should respond 422",
-      "uid" : "d7cfdcda627f78ac",
+      "uid" : "42f9a887281b0364",
       "parentUid" : "5ef208b6447d89116d98fd8f8d6d7635",
       "status" : "passed",
       "time" : {
-        "start" : 1607117438219,
-        "stop" : 1607117438220,
-        "duration" : 1
+        "start" : 1607376224017,
+        "stop" : 1607376224017,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
@@ -177,12 +164,12 @@
     "name" : "Mainfilters API when updating a user's filters when sending wrong previous date label",
     "children" : [ {
       "name" : "should respond 422",
-      "uid" : "ee3eb58014e6eeb0",
+      "uid" : "a261988f3a398b53",
       "parentUid" : "e7906d77a0b4d4113a2cb38368655d7f",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1607117439313,
-        "stop" : 1607117439314,
+        "start" : 1607376224293,
+        "stop" : 1607376224294,
         "duration" : 1
       },
       "flaky" : false,
@@ -190,5 +177,139 @@
       "parameters" : [ ]
     } ],
     "uid" : "e7906d77a0b4d4113a2cb38368655d7f"
+  }, {
+    "name" : "Mainfilters API when updating a user's filters when updating the 'Show me' input",
+    "children" : [ {
+      "name" : "it should have the correct data response for: This Year",
+      "uid" : "fa71e48f7d8c5929",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376224296,
+        "stop" : 1607376225849,
+        "duration" : 1553
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: Last 90 Days",
+      "uid" : "117208d1d8d2b90f",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376225849,
+        "stop" : 1607376227309,
+        "duration" : 1460
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: This Quarter",
+      "uid" : "c5cee5c91a4d3669",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376227310,
+        "stop" : 1607376228796,
+        "duration" : 1486
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: Last 30 Days",
+      "uid" : "67d335fc2d36c196",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376228796,
+        "stop" : 1607376230250,
+        "duration" : 1454
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: This Month",
+      "uid" : "1570c8c6247c8a28",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376230250,
+        "stop" : 1607376231327,
+        "duration" : 1077
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: Last 7 Days",
+      "uid" : "38f856194d509f83",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376231328,
+        "stop" : 1607376232498,
+        "duration" : 1170
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: Last Week",
+      "uid" : "d29a52d98bc21b44",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376232499,
+        "stop" : 1607376233589,
+        "duration" : 1090
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: This Week",
+      "uid" : "7262ed98335a882d",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376233589,
+        "stop" : 1607376234406,
+        "duration" : 817
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: Yesterday",
+      "uid" : "dc7ac3edbde3279a",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607376234407,
+        "stop" : 1607376235225,
+        "duration" : 818
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should have the correct data response for: Today",
+      "uid" : "e3e22ef278e665df",
+      "parentUid" : "1bcdb3499ae6ef63d96b1e86c95682a3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1607376235225,
+        "stop" : 1607376235800,
+        "duration" : 575
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1bcdb3499ae6ef63d96b1e86c95682a3"
   } ]
 }
