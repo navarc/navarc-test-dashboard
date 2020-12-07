@@ -1,12 +1,12 @@
 {
-  "uid" : "e3e22ef278e665df",
+  "uid" : "78608713078bde66",
   "name" : "it should have the correct data response for: Today",
   "fullName" : "Mainfilters API when updating a user's filters when updating the 'Show me' input.it should have the correct data response for: Today",
   "historyId" : "a0cffc3b7c4192459f5bbe6694f0b628",
   "time" : {
-    "start" : 1607376235225,
-    "stop" : 1607376235800,
-    "duration" : 575
+    "start" : 1607376519731,
+    "stop" : 1607376520370,
+    "duration" : 639
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -47,6 +47,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "e3e22ef278e665df.json",
+  "source" : "78608713078bde66.json",
   "parameterValues" : [ ]
 }

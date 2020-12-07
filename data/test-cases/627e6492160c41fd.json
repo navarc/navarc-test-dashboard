@@ -1,12 +1,12 @@
 {
-  "uid" : "e5d47389051058ed",
+  "uid" : "627e6492160c41fd",
   "name" : "should not have empty brand choices",
   "fullName" : "Mainfilters API when making a request to user's filters.should not have empty brand choices",
   "historyId" : "ef89611ec70a66620e43be83171dadd2",
   "time" : {
-    "start" : 1607376223400,
-    "stop" : 1607376223405,
-    "duration" : 5
+    "start" : 1607376507785,
+    "stop" : 1607376507791,
+    "duration" : 6
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -47,6 +47,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "e5d47389051058ed.json",
+  "source" : "627e6492160c41fd.json",
   "parameterValues" : [ ]
 }

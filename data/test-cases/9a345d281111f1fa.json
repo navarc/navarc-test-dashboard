@@ -1,12 +1,12 @@
 {
-  "uid" : "a42a88b2929cf41f",
+  "uid" : "9a345d281111f1fa",
   "name" : "should not have empty asin choices",
   "fullName" : "Mainfilters API when making a request to user's filters.should not have empty asin choices",
   "historyId" : "3fd7a673cbc981f0a250a5d6b9e1bd51",
   "time" : {
-    "start" : 1607376223406,
-    "stop" : 1607376223406,
-    "duration" : 0
+    "start" : 1607376507793,
+    "stop" : 1607376507794,
+    "duration" : 1
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -47,6 +47,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "a42a88b2929cf41f.json",
+  "source" : "9a345d281111f1fa.json",
   "parameterValues" : [ ]
 }

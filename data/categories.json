@@ -7,25 +7,25 @@
       "name" : "expected Array [] not to be empty (false negative fail)",
       "children" : [ {
         "name" : "should not have empty brand choices",
-        "uid" : "e5d47389051058ed",
+        "uid" : "627e6492160c41fd",
         "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
         "status" : "failed",
         "time" : {
-          "start" : 1607376223400,
-          "stop" : 1607376223405,
-          "duration" : 5
+          "start" : 1607376507785,
+          "stop" : 1607376507791,
+          "duration" : 6
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "should not have empty family choices",
-        "uid" : "82dfbef908c695e6",
+        "uid" : "dc3f722d3b55d665",
         "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
         "status" : "failed",
         "time" : {
-          "start" : 1607376223405,
-          "stop" : 1607376223406,
+          "start" : 1607376507792,
+          "stop" : 1607376507793,
           "duration" : 1
         },
         "flaky" : false,
@@ -33,49 +33,32 @@
         "parameters" : [ ]
       }, {
         "name" : "should not have empty asin choices",
-        "uid" : "a42a88b2929cf41f",
+        "uid" : "9a345d281111f1fa",
         "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
         "status" : "failed",
         "time" : {
-          "start" : 1607376223406,
-          "stop" : 1607376223406,
-          "duration" : 0
+          "start" : 1607376507793,
+          "stop" : 1607376507794,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "it should have the correct data response for: Today",
-        "uid" : "e3e22ef278e665df",
+        "uid" : "78608713078bde66",
         "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
         "status" : "failed",
         "time" : {
-          "start" : 1607376235225,
-          "stop" : 1607376235800,
-          "duration" : 575
+          "start" : 1607376519731,
+          "stop" : 1607376520370,
+          "duration" : 639
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
       "uid" : "9abcdd37f53d8dfc8eb4cee0044cf45e"
-    }, {
-      "name" : "expected 200 to be 422",
-      "children" : [ {
-        "name" : "should respond 422",
-        "uid" : "a261988f3a398b53",
-        "parentUid" : "b465d06ca0bde62bfda2a7f32e2a1a25",
-        "status" : "failed",
-        "time" : {
-          "start" : 1607376224293,
-          "stop" : 1607376224294,
-          "duration" : 1
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "b465d06ca0bde62bfda2a7f32e2a1a25"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]
