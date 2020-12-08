@@ -1,18 +1,16 @@
 {
-  "uid" : "9a345d281111f1fa",
+  "uid" : "c4152c8b9eccf60e",
   "name" : "should not have empty asin choices",
   "fullName" : "Mainfilters API when making a request to user's filters.should not have empty asin choices",
   "historyId" : "3fd7a673cbc981f0a250a5d6b9e1bd51",
   "time" : {
-    "start" : 1607376507793,
-    "stop" : 1607376507794,
+    "start" : 1607439543272,
+    "stop" : 1607439543273,
     "duration" : 1
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "failed",
-  "statusMessage" : "expected Array [] not to be empty (false negative fail)",
-  "statusTrace" : "AssertionError: expected Array [] not to be empty (false negative fail)\n                    at Assertion.fail (node_modules/should/cjs/should.js:275:17)\n                    at Assertion.value [as empty] (node_modules/should/cjs/should.js:368:17)\n                    at Context.it (tests/mainfilters/mainfilters.api.spec.js:50:54)",
+  "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -40,13 +38,9 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ ],
-    "categories" : [ {
-      "name" : "Product defects",
-      "matchedStatuses" : [ ],
-      "flaky" : false
-    } ],
+    "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "9a345d281111f1fa.json",
+  "source" : "c4152c8b9eccf60e.json",
   "parameterValues" : [ ]
 }

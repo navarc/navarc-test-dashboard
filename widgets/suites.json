@@ -1,26 +1,26 @@
 {
   "total" : 6,
   "items" : [ {
-    "uid" : "da67c68a17813b82e7969b3b7721291f",
-    "name" : "Mainfilters API when making a request to user's filters",
-    "statistic" : {
-      "failed" : 3,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 5,
-      "unknown" : 0,
-      "total" : 8
-    }
-  }, {
     "uid" : "a665110857e9f22c9a787e9bd6224a2e",
     "name" : "Mainfilters API when updating a user's filters when updating the 'Show me' input",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 9,
+      "passed" : 8,
       "unknown" : 0,
       "total" : 10
+    }
+  }, {
+    "uid" : "da67c68a17813b82e7969b3b7721291f",
+    "name" : "Mainfilters API when making a request to user's filters",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
     }
   }, {
     "uid" : "c92853fe6ee3a86b8adadc69ef7002fd",
