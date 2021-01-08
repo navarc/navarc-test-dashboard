@@ -4,10 +4,10 @@
     "uid" : "a665110857e9f22c9a787e9bd6224a2e",
     "name" : "Mainfilters API when updating a user's filters when updating the 'Show me' input",
     "statistic" : {
-      "failed" : 2,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 8,
+      "passed" : 10,
       "unknown" : 0,
       "total" : 10
     }

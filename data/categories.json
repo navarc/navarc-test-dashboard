@@ -1,39 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "expected Array [] not to be empty (false negative fail)",
-      "children" : [ {
-        "name" : "it should have the correct data response for: Yesterday",
-        "uid" : "de6b2822f24edcea",
-        "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
-        "status" : "failed",
-        "time" : {
-          "start" : 1607439554668,
-          "stop" : 1607439555269,
-          "duration" : 601
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "it should have the correct data response for: Today",
-        "uid" : "254d99171e6257af",
-        "parentUid" : "9abcdd37f53d8dfc8eb4cee0044cf45e",
-        "status" : "failed",
-        "time" : {
-          "start" : 1607439555270,
-          "stop" : 1607439555933,
-          "duration" : 663
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "9abcdd37f53d8dfc8eb4cee0044cf45e"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }
