@@ -1,12 +1,12 @@
 {
-  "uid" : "b46f9b24f6dc2d61",
-  "name" : "it should have the correct data response for: Yesterday",
-  "fullName" : "Mainfilters API when updating a user's filters when updating the 'Show me' input.it should have the correct data response for: Yesterday",
-  "historyId" : "c3b25cf44c04394293c263ece0625e0c",
+  "uid" : "85824a1e4c0d2583",
+  "name" : "it should have the correct data response for: This Month",
+  "fullName" : "Mainfilters API when updating a user's filters when updating the 'Show me' input.it should have the correct data response for: This Month",
+  "historyId" : "916199a8fb61e49f30737d68a52278d1",
   "time" : {
-    "start" : 1610073165631,
-    "stop" : 1610073167306,
-    "duration" : 1675
+    "start" : 1610126957415,
+    "stop" : 1610126958930,
+    "duration" : 1515
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -23,7 +23,7 @@
     "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
   }, {
     "name" : "testMethod",
-    "value" : "it should have the correct data response for: Yesterday"
+    "value" : "it should have the correct data response for: This Month"
   }, {
     "name" : "package",
     "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "b46f9b24f6dc2d61.json",
+  "source" : "85824a1e4c0d2583.json",
   "parameterValues" : [ ]
 }

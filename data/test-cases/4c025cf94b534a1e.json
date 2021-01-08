@@ -1,12 +1,12 @@
 {
-  "uid" : "df15584a73c0e844",
-  "name" : "it should have the correct data response for: Today",
-  "fullName" : "Mainfilters API when updating a user's filters when updating the 'Show me' input.it should have the correct data response for: Today",
-  "historyId" : "a0cffc3b7c4192459f5bbe6694f0b628",
+  "uid" : "4c025cf94b534a1e",
+  "name" : "it should have the correct data response for: This Quarter",
+  "fullName" : "Mainfilters API when updating a user's filters when updating the 'Show me' input.it should have the correct data response for: This Quarter",
+  "historyId" : "336b69eb6c22b82c6641ed4214aaec83",
   "time" : {
-    "start" : 1610073167306,
-    "stop" : 1610073168821,
-    "duration" : 1515
+    "start" : 1610126953755,
+    "stop" : 1610126955283,
+    "duration" : 1528
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -23,7 +23,7 @@
     "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
   }, {
     "name" : "testMethod",
-    "value" : "it should have the correct data response for: Today"
+    "value" : "it should have the correct data response for: This Quarter"
   }, {
     "name" : "package",
     "value" : "Mainfilters API when updating a user's filters when updating the 'Show me' input"
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "df15584a73c0e844.json",
+  "source" : "4c025cf94b534a1e.json",
   "parameterValues" : [ ]
 }
