@@ -1,0 +1,46 @@
+{
+  "uid" : "68e4263b68763e27",
+  "name" : "should return chart data when metric 1 is: Sales - Net Sales",
+  "fullName" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime.should return chart data when metric 1 is: Sales - Net Sales",
+  "historyId" : "47284b5c56218eaa4296335c58b076ab",
+  "time" : {
+    "start" : 1610317095378,
+    "stop" : 1610317096374,
+    "duration" : 996
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testClass",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return chart data when metric 1 is: Sales - Net Sales"
+  }, {
+    "name" : "package",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68e4263b68763e27.json",
+  "parameterValues" : [ ]
+}

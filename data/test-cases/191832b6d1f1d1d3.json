@@ -1,11 +1,11 @@
 {
-  "uid" : "4fd9f65febd8ec29",
-  "name" : "should have correct datatypes",
-  "fullName" : "Mainfilters API when making a request to user's filters.should have correct datatypes",
-  "historyId" : "eb81dd3f47c6ac152f03a46dad111c0c",
+  "uid" : "191832b6d1f1d1d3",
+  "name" : "have a response of 200",
+  "fullName" : "Overview API when making making a request to inventory highlights.have a response of 200",
+  "historyId" : "c24051ec77ef3d6bb6f1bacb49464ddb",
   "time" : {
-    "start" : 1610126947603,
-    "stop" : 1610126947604,
+    "start" : 1610317095376,
+    "stop" : 1610317095377,
     "duration" : 1
   },
   "description" : "",
@@ -17,16 +17,16 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "suite",
-    "value" : "Mainfilters API when making a request to user's filters"
+    "value" : "Overview API when making making a request to inventory highlights"
   }, {
     "name" : "testClass",
-    "value" : "Mainfilters API when making a request to user's filters"
+    "value" : "Overview API when making making a request to inventory highlights"
   }, {
     "name" : "testMethod",
-    "value" : "should have correct datatypes"
+    "value" : "have a response of 200"
   }, {
     "name" : "package",
-    "value" : "Mainfilters API when making a request to user's filters"
+    "value" : "Overview API when making making a request to inventory highlights"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -41,6 +41,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4fd9f65febd8ec29.json",
+  "source" : "191832b6d1f1d1d3.json",
   "parameterValues" : [ ]
 }

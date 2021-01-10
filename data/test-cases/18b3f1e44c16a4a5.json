@@ -1,0 +1,46 @@
+{
+  "uid" : "18b3f1e44c16a4a5",
+  "name" : "have a response of 200",
+  "fullName" : "Overview API when making a request to scorecards api.have a response of 200",
+  "historyId" : "75596214f0256d0889827e005b816b51",
+  "time" : {
+    "start" : 1610317095091,
+    "stop" : 1610317095097,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Overview API when making a request to scorecards api"
+  }, {
+    "name" : "testClass",
+    "value" : "Overview API when making a request to scorecards api"
+  }, {
+    "name" : "testMethod",
+    "value" : "have a response of 200"
+  }, {
+    "name" : "package",
+    "value" : "Overview API when making a request to scorecards api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18b3f1e44c16a4a5.json",
+  "parameterValues" : [ ]
+}

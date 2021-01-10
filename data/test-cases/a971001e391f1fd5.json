@@ -1,0 +1,52 @@
+{
+  "uid" : "a971001e391f1fd5",
+  "name" : "should return chart data when metric 3 is: Reviews - AVG Star Rating",
+  "fullName" : "Overview API when making a request to comparison chart when testing metric3 for compaing and overtime.should return chart data when metric 3 is: Reviews - AVG Star Rating",
+  "historyId" : "6cfd23bc651dfcde047b206b30c57398",
+  "time" : {
+    "start" : 1610317114705,
+    "stop" : 1610317115524,
+    "duration" : 819
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "invalid json response body at http://api.navarc.co/overview/comparisonchart reason: Unexpected token N in JSON at position 1269",
+  "statusTrace" : "FetchError: invalid json response body at http://api.navarc.co/overview/comparisonchart reason: Unexpected token N in JSON at position 1269\n                    at /Users/oshalom/actions-runner/_work/navarc-tests/navarc-tests/node_modules/node-fetch/lib/index.js:272:32\n                    at process._tickCallback (internal/process/next_tick.js:68:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Overview API when making a request to comparison chart when testing metric3 for compaing and overtime"
+  }, {
+    "name" : "testClass",
+    "value" : "Overview API when making a request to comparison chart when testing metric3 for compaing and overtime"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return chart data when metric 3 is: Reviews - AVG Star Rating"
+  }, {
+    "name" : "package",
+    "value" : "Overview API when making a request to comparison chart when testing metric3 for compaing and overtime"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a971001e391f1fd5.json",
+  "parameterValues" : [ ]
+}

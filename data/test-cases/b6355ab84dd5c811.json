@@ -1,0 +1,46 @@
+{
+  "uid" : "b6355ab84dd5c811",
+  "name" : "should return chart data when metric 1 is: Sales - Sponsored Products Ads",
+  "fullName" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime.should return chart data when metric 1 is: Sales - Sponsored Products Ads",
+  "historyId" : "e3d31daef958b5205890fa377ea6f595",
+  "time" : {
+    "start" : 1610317097092,
+    "stop" : 1610317098014,
+    "duration" : 922
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testClass",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return chart data when metric 1 is: Sales - Sponsored Products Ads"
+  }, {
+    "name" : "package",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6355ab84dd5c811.json",
+  "parameterValues" : [ ]
+}

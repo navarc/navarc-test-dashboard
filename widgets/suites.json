@@ -1,30 +1,30 @@
 {
-  "total" : 6,
+  "total" : 4,
   "items" : [ {
-    "uid" : "a665110857e9f22c9a787e9bd6224a2e",
-    "name" : "Mainfilters API when updating a user's filters when updating the 'Show me' input",
+    "uid" : "2d6045fbfb86ba24b0b87a4b544f3e63",
+    "name" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime",
     "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 10,
-      "unknown" : 0,
-      "total" : 10
-    }
-  }, {
-    "uid" : "da67c68a17813b82e7969b3b7721291f",
-    "name" : "Mainfilters API when making a request to user's filters",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
+      "failed" : 2,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 8,
       "unknown" : 0,
-      "total" : 8
+      "total" : 11
     }
   }, {
-    "uid" : "c92853fe6ee3a86b8adadc69ef7002fd",
-    "name" : "Mainfilters API when updating a user's filters when sending wrong payloads when sending a empty object",
+    "uid" : "70a7dc5d0d0d960e1ef241f8726ae028",
+    "name" : "Overview API when making a request to comparison chart when testing metric3 for compaing and overtime",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "9265ca6fc4b4e58053cb1a0a78b26766",
+    "name" : "Overview API when making a request to scorecards api",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -34,30 +34,8 @@
       "total" : 1
     }
   }, {
-    "uid" : "28b7af6d1747dc24bde2c228ccb070a7",
-    "name" : "Mainfilters API when updating a user's filters when sending empty brands families and asins",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "d313224e6c053164af8cacf7cb5aa7d2",
-    "name" : "Mainfilters API when updating a user's filters when sending wrong current date label",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "1e03fc5de9f0fb88db51d300a48aa11a",
-    "name" : "Mainfilters API when updating a user's filters when sending wrong previous date label",
+    "uid" : "6210daf0cc5aba946618e6b30d2706b3",
+    "name" : "Overview API when making making a request to inventory highlights",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

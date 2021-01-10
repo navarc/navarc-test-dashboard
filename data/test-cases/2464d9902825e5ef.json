@@ -1,0 +1,46 @@
+{
+  "uid" : "2464d9902825e5ef",
+  "name" : "should return chart data when metric 1 is: Orders - Total",
+  "fullName" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime.should return chart data when metric 1 is: Orders - Total",
+  "historyId" : "c224016d8d0bc96b7d457839e5ec56bc",
+  "time" : {
+    "start" : 1610317100157,
+    "stop" : 1610317100880,
+    "duration" : 723
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testClass",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return chart data when metric 1 is: Orders - Total"
+  }, {
+    "name" : "package",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2464d9902825e5ef.json",
+  "parameterValues" : [ ]
+}

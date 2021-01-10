@@ -1,0 +1,52 @@
+{
+  "uid" : "31420526bf1663a5",
+  "name" : "should return chart data when metric 1 is: Buy Box - Weighted%",
+  "fullName" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime.should return chart data when metric 1 is: Buy Box - Weighted%",
+  "historyId" : "8cb057c64ee4b7fa768979ea5a8de14b",
+  "time" : {
+    "start" : 1610317099522,
+    "stop" : 1610317100156,
+    "duration" : 634
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 500 to be 200",
+  "statusTrace" : "AssertionError: expected 500 to be 200\n                    at Assertion.fail (node_modules/should/cjs/should.js:275:17)\n                    at Assertion.value (node_modules/should/cjs/should.js:356:19)\n                    at fetchPost.then (tests/overview/overview.api.spec.js:64:40)\n                    at process._tickCallback (internal/process/next_tick.js:68:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testClass",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return chart data when metric 1 is: Buy Box - Weighted%"
+  }, {
+    "name" : "package",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "31420526bf1663a5.json",
+  "parameterValues" : [ ]
+}

@@ -1,5 +1,103 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected 500 to be 200",
+      "children" : [ {
+        "name" : "should return chart data when metric 1 is: Buy Box - Weighted%",
+        "uid" : "31420526bf1663a5",
+        "parentUid" : "e600d5de8639a89d2055b6b30726957c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1610317099522,
+          "stop" : 1610317100156,
+          "duration" : 634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "should return chart data when metric 1 is: Orders - Average $",
+        "uid" : "e6b8ee9f8bbe3a00",
+        "parentUid" : "e600d5de8639a89d2055b6b30726957c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1610317101558,
+          "stop" : 1610317102120,
+          "duration" : 562
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "should return chart data when metric 3 is: Buy Box - Weighted%",
+        "uid" : "9ff7b85042b8bc0a",
+        "parentUid" : "e600d5de8639a89d2055b6b30726957c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1610317111394,
+          "stop" : 1610317111963,
+          "duration" : 569
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "should return chart data when metric 3 is: Orders - Average $",
+        "uid" : "320105bf2c839e90",
+        "parentUid" : "e600d5de8639a89d2055b6b30726957c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1610317113373,
+          "stop" : 1610317113939,
+          "duration" : 566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e600d5de8639a89d2055b6b30726957c"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "invalid json response body at http://api.navarc.co/overview/comparisonchart reason: Unexpected token N in JSON at position 535",
+      "children" : [ {
+        "name" : "should return chart data when metric 1 is: Reviews - AVG Star Rating",
+        "uid" : "b98864da82535d07",
+        "parentUid" : "871df448b7ba4a2a9e7f258b5ebed8ba",
+        "status" : "broken",
+        "time" : {
+          "start" : 1610317102787,
+          "stop" : 1610317103545,
+          "duration" : 758
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "871df448b7ba4a2a9e7f258b5ebed8ba"
+    }, {
+      "name" : "invalid json response body at http://api.navarc.co/overview/comparisonchart reason: Unexpected token N in JSON at position 1269",
+      "children" : [ {
+        "name" : "should return chart data when metric 3 is: Reviews - AVG Star Rating",
+        "uid" : "a971001e391f1fd5",
+        "parentUid" : "2f3c1260212b833e8b4ff56bf930c2df",
+        "status" : "broken",
+        "time" : {
+          "start" : 1610317114705,
+          "stop" : 1610317115524,
+          "duration" : 819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f3c1260212b833e8b4ff56bf930c2df"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
   "name" : "categories"
 }

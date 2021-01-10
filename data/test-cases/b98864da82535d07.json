@@ -1,0 +1,52 @@
+{
+  "uid" : "b98864da82535d07",
+  "name" : "should return chart data when metric 1 is: Reviews - AVG Star Rating",
+  "fullName" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime.should return chart data when metric 1 is: Reviews - AVG Star Rating",
+  "historyId" : "43521ca871a49e23b9f982193167bed6",
+  "time" : {
+    "start" : 1610317102787,
+    "stop" : 1610317103545,
+    "duration" : 758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "invalid json response body at http://api.navarc.co/overview/comparisonchart reason: Unexpected token N in JSON at position 535",
+  "statusTrace" : "FetchError: invalid json response body at http://api.navarc.co/overview/comparisonchart reason: Unexpected token N in JSON at position 535\n                    at /Users/oshalom/actions-runner/_work/navarc-tests/navarc-tests/node_modules/node-fetch/lib/index.js:272:32\n                    at process._tickCallback (internal/process/next_tick.js:68:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testClass",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return chart data when metric 1 is: Reviews - AVG Star Rating"
+  }, {
+    "name" : "package",
+    "value" : "Overview API when making a request to comparison chart when testing metric1 for compaing and overtime"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b98864da82535d07.json",
+  "parameterValues" : [ ]
+}
